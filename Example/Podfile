@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OutdoorIndoorKit-iOS-Pod_Tests' do
+  pod 'OutdoorIndoorKit-iOS-Pod', :path => '../'
+  
+  
+end
