@@ -13,6 +13,9 @@
 #import "JMapGMGeometry.h"
 #import "JMapGMMap.h"
 
+/**
+ *  The JMapGMControllerDelegate Delegate
+ */
 @protocol JMapGMControllerDelegate <NSObject>
 
 @optional
