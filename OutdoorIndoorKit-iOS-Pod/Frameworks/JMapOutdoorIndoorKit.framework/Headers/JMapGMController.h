@@ -45,6 +45,9 @@
 
 @end
 
+/**
+ *  The JMapGMController object
+*/
 @interface JMapGMController : NSObject
 
 /**
@@ -511,6 +514,13 @@ typedef void(^_Nullable ErrorCompletion)(JMapError * _Nullable error);
  *  @param style A JMapStyle object that defines the style to be used for all units with Destinations.
  */
 - (void)styleUnitsWithDestinations:(nonnull JMapStyle*)style;
+
+/**
+*  Gets the bounds in northeast and southwest lat/lng coordinates for the given shapes.
+*
+*  @param shapes The shapes array to generate the bounds
+*/
+- (nonnull NSArray <NSArray <NSNumber *>*>*)getBoundsFromShapes:(nonnull NSArray <JMapGMGeometry*>*)shapes;
 
 #pragma mark - User Location Methods
 

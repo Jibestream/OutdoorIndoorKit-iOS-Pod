@@ -9,6 +9,9 @@
 #import <Foundation/Foundation.h>
 #import <GoogleMaps/GoogleMaps.h>
 
+/**
+ *  The JMapGMGeometry object
+*/
 @interface JMapGMGeometry : NSObject
 
 @property (nonatomic, readonly) NSString *type;

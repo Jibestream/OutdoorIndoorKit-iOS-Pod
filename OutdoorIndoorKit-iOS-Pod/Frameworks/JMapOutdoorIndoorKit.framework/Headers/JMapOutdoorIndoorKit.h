@@ -6,7 +6,6 @@
 //  Copyright © 2019 Jibestream. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
 #import <JMapOutdoorIndoorKit/JMapGMController.h>
