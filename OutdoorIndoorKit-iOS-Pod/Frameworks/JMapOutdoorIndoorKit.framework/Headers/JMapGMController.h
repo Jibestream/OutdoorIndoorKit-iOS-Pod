@@ -339,6 +339,9 @@ typedef void(^_Nullable ErrorCompletion)(JMapError * _Nullable error);
  */
 - (nullable NSArray <JMapGMGeometry *>*)getUnitsFromDestination:(nonnull JMapDestination *)destination;
 
+/**
+*  Resets all the units back to the original style.
+*/
 - (void)resetAllUnitStyles;
 
 /**

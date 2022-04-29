@@ -11,3 +11,4 @@
 #import <JMapOutdoorIndoorKit/JMapGMController.h>
 #import <JMapOutdoorIndoorKit/JMapGMMap.h>
 #import <JMapOutdoorIndoorKit/JMapGMGeometry.h>
+#import <JMapOutdoorIndoorKit/JMapGMMultiVenueController.h>

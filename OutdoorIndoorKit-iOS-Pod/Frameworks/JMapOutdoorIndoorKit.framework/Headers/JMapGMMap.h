@@ -38,6 +38,6 @@
  *  @param layerName The layer name to return shapes from
  *  @return An NSArray of shapes in the layer
 */
-- (nullable NSArray <GMSOverlay*>*)getShapesInLayer:(nonnull NSString *)layerName;
+- (nullable NSArray <id>*)getShapesInLayer:(nonnull NSString *)layerName;
 
 @end

@@ -14,9 +14,21 @@
 */
 @interface JMapGMGeometry : NSObject
 
+/**
+ *  The type property of the geometry, refer to GeoJSON "type" property
+*/
 @property (nonatomic, readonly) NSString *type;
+/**
+ *  The coordinate list of the geometry in lat,long
+*/
 @property (nonatomic, readonly) NSArray <NSArray *>*coordinates;
+/**
+ *  The additional properties associated to the geometry
+*/
 @property (nonatomic, readonly) NSDictionary *properties;
+/**
+ *  The GMSOverlay reference to the geometry on the map
+*/
 @property (nonatomic, readonly) GMSOverlay *shapeOverlay;
 
 /**

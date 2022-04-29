@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'OutdoorIndoorKit-iOS-Pod'
-s.version='1.0.1'
+s.version='1.1.0'
   s.summary          = 'The OutdoorIndoorKit-iOS-Pod for the Jibestream iOS SDK.'
 
   s.description      = 'This CocoaPod provides the release version of the OutdoorIndoorKit for the Jibestream iOS SDK.'
