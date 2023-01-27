@@ -4,6 +4,26 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/JMapGMController.h</key>
+		<data>
+		MqWvooFOFvu2Cm7uLVcnkVs9qhQ=
+		</data>
+		<key>Headers/JMapGMGeometry.h</key>
+		<data>
+		qRgdYK0JZad9BedyevsgYS7RNj4=
+		</data>
+		<key>Headers/JMapGMMap.h</key>
+		<data>
+		rdmdDhSzeLcd0L8anl7rR78L5CQ=
+		</data>
+		<key>Headers/JMapGMMultiVenueController.h</key>
+		<data>
+		XL1TlCEdMT57doq34YMRbFyIY5Y=
+		</data>
+		<key>Headers/JMapOutdoorIndoorKit.h</key>
+		<data>
+		lQidUj348uu7JP0MxeIkEWtq/SA=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		jI28pkaKUevzb/5m3dHqUkfMHKg=
@@ -15,6 +35,61 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/JMapGMController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MqWvooFOFvu2Cm7uLVcnkVs9qhQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			gdydguO0at7Ok0S7wBwtBoyiLl4oZAtXUVbU7oT/Zrk=
+			</data>
+		</dict>
+		<key>Headers/JMapGMGeometry.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qRgdYK0JZad9BedyevsgYS7RNj4=
+			</data>
+			<key>hash2</key>
+			<data>
+			4S3FAZSTdJVvBqxofcCR1haQJiJCWSWTZ0yptaAOz2Y=
+			</data>
+		</dict>
+		<key>Headers/JMapGMMap.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rdmdDhSzeLcd0L8anl7rR78L5CQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			tgwZDjBi9yFbX1JsPpQXNw6GWZyEkbh20P+HsSKwLCo=
+			</data>
+		</dict>
+		<key>Headers/JMapGMMultiVenueController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XL1TlCEdMT57doq34YMRbFyIY5Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			t4FuaZUK8cZKGSsUv1tGowNre6VPLIgZduW9D6iJUeE=
+			</data>
+		</dict>
+		<key>Headers/JMapOutdoorIndoorKit.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lQidUj348uu7JP0MxeIkEWtq/SA=
+			</data>
+			<key>hash2</key>
+			<data>
+			jjBhtvT8N6VqrFmjs0wsAgKgOPmcgWuXfM0qDwdSyxc=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
