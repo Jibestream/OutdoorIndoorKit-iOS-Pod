@@ -10,6 +10,6 @@ s.version='1.2.0'
   s.source           = { :git => 'https://github.com/Jibestream/OutdoorIndoor-iOS-Pod', :tag => "#{s.version}" }
 
   s.ios.deployment_target = '10.0'
-  s.platform = :ios, '10.0'
+  s.platform = :ios, '9.0'
   s.vendored_frameworks = 'OutdoorIndoorKit-iOS-Pod/Frameworks/*.xcframework'
 end
