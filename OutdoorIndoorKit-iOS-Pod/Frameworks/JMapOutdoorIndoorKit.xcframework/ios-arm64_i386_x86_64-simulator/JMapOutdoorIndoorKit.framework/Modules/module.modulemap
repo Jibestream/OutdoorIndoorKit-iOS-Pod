@@ -1,0 +1,6 @@
+framework module JMapOutdoorIndoorKit {
+  umbrella header "JMapOutdoorIndoorKit.h"
+
+  export *
+  module * { export * }
+}
